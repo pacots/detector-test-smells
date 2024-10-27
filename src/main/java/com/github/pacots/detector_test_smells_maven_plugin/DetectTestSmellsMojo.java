@@ -1,4 +1,4 @@
-package es.upm.prof.grupoaa.detector_test_smells_maven_plugin;
+package com.github.pacots.detector_test_smells_maven_plugin;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;

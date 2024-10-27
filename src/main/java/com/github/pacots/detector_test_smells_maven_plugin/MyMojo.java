@@ -1,4 +1,4 @@
-package es.upm.prof.grupoaa.detector_test_smells_maven_plugin;
+package com.github.pacots.detector_test_smells_maven_plugin;
 
 /*
  * Copyright 2001-2005 The Apache Software Foundation.
